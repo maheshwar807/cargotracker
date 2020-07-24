@@ -24,7 +24,7 @@
     <repositories>
         <repository>
             <id>primefaces</id>
-            <url>http://repository.primefaces.org</url>
+            <url>http://35.233.41.135:8081/repository/primefaces/</url>
         </repository>
     </repositories>
 
