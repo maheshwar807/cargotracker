@@ -9,7 +9,7 @@
     <packaging>war</packaging>
 
     <name>cargo-tracker</name>
-    <url>https://github.com/javaee/cargotracker/</url>
+    <url>https://github.com/maheshwar807/cargotracker/</url>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
@@ -24,7 +24,7 @@
     <repositories>
         <repository>
             <id>primefaces</id>
-            <url>http://35.233.41.135:8081/repository/primefaces/</url>
+            <url>http://repository.primefaces.org</url>
         </repository>
     </repositories>
 
